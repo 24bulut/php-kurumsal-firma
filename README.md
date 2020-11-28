@@ -7,3 +7,7 @@
 ![Screenshot](https://i.ibb.co/hg4bFqb/2222.png)
 ![Screenshot](https://i.ibb.co/4dhQ2gs/3333.png)
 ![Screenshot](https://i.ibb.co/1Xr3Nxw/4444.png)
+
+admin panel
+kullanıcı adı: admin
+şifre : admin
